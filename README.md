@@ -4,8 +4,12 @@
 > *Jet Propulsion Laboratory / California Inst. of Technology — 1977*
 
 A retro-styled, terminal-aesthetic space probe simulator written in Python.
+
 Created with Claude Sonnet 4.6 (adaptive) using the web UI, and a free subscription.
-Pilot a Voyager-inspired spacecraft through the solar system and beyond — scanning, analyzing, and cataloguing celestial objects as you navigate ever deeper into interstellar space. Features real NASA exoplanet data, physics-based procedural generation, and gravity-assist slingshot maneuvers.
+
+Pilot a Voyager-inspired spacecraft through the solar system and beyond — scanning, analyzing, and cataloguing celestial objects as you navigate ever deeper into interstellar space.
+
+Features real NASA exoplanet data, physics-based procedural generation, and gravity-assist slingshot maneuvers.
 
 ---
 
